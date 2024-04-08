@@ -51,7 +51,7 @@
    /* animation: move 1s ; */
   
 }
-.img-home:hover
+.img-home:hover img
 {
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.7));
    animation: move 0.2s infinite  ;
